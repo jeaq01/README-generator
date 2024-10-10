@@ -1,7 +1,7 @@
 # README generator
 
 ## Description
-a professional README generator using node.js
+A professional README generator using node.js
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,10 +12,14 @@ a professional README generator using node.js
 - [Questions](#questions)
 
 ## Installation
-make sure u have npm i inquirer@8.2.4 install and then create the script file and copy this code
+Make sure u have npm i inquirer@8.2.4 install and then create the script file and copy this code
 
 ## Usage
-N/a
+
+
+https://github.com/user-attachments/assets/b1b0278c-9d0f-4db5-a428-1d1f96fdc164
+
+
 
 ## License
 This project is licensed under the MIT license.
@@ -24,7 +28,7 @@ This project is licensed under the MIT license.
 N/a
 
 ## Tests
-in order to test this node app you have to type node index.js inyour command line
+In order to test this node app you have to type node index.js inyour command line
 
 ## Questions
 If you have any questions, please reach out to me on GitHub: [jeaq01](https://github.com/jeaq01jeaq01) or email me at julioeaq01@outllok.com.
